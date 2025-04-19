@@ -12,7 +12,8 @@ Aspiring Flutter Developer passionate about creating sleek and functional mobile
 - 🧮 Unit Converter App  
 - 📊 Table Generator App  
 - 🔢 Counter App  
-- 🛒 Grocery Cart App (in progress)
+- 🛒 Grocery Cart App
+- ☁️ Weather App
 
 📫 How to reach me:  
 [Email](mailto:hamzabutthb553.hb@gmail.com) | [LinkedIn](https://linkedin.com/in/hamza-flutterdev)  
