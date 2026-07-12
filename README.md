@@ -1,205 +1,242 @@
-# Hi, I'm Hamza Shahid! 👋
+<div align="center">
 
-I'm a **Junior Flutter Developer** at **Teramob Technologies** with about 1 year of hands-on experience building production-ready mobile apps. I specialize in **clean architecture**, **offline-first systems**, **AI integration**, and delivering smooth, user-centered experiences that users love.
+# Hey, I'm Hamza Shahid 👋
+### Flutter Developer building offline-first, AI-powered mobile apps
 
-I've shipped multiple apps from concept to deployment, built Flutter packages for code reusability, and contributed to architecture decisions that make codebases scalable and maintainable.
+📍 Islamabad, Pakistan &nbsp;•&nbsp; 🏢 Junior Flutter Developer @ Teramob Technologies
+
+[LinkedIn](https://linkedin.com/in/hamza-flutterdev) • [GitHub](https://github.com/hamza-flutterdev) • [Email](mailto:hamzabutthb553.hb@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I ship production Flutter apps — not demos. In a bit over a year at **Teramob Technologies**, I've taken **15+ apps** from architecture to the Play Store, contributed to another 5–10, and collectively they've crossed **150,000+ downloads**. I've also published my own Flutter package on pub.dev and worked on a second one alongside a teammate.
+
+What I actually care about: **offline-first data design** (so apps work when the network doesn't), **clean, testable architecture**, and **AI features that feel native** rather than bolted on. I write my core logic in **Dart and C++**, and direct/debug native modules when a feature needs to reach outside Flutter.
+
+<div align="center">
+
+| 🚀 15+ Apps Shipped | 📲 150,000+ Downloads | ⏱️ 1+ Years in Production |
+|:---:|:---:|:---:|
+
+</div>
 
 ---
 
 ## 🚀 What I Do
 
-- 📱 Build **cross-platform mobile apps** with Flutter & Dart
-- 🎨 Design **responsive UI/UX** with animations (Lottie, Shimmer) and modern Material Design
-- 🗄️ Implement **offline-first databases** (SQLite) and scalable data architectures
-- 🔥 Integrate **Firebase** (Firestore, Remote Config, Analytics, Crashlytics)
-- 🤖 Add **AI features** (OpenAI, Google Generative AI, STT/TTS)
-- 💰 Implement **full monetization** (Google Mobile Ads, In-App Purchases)
-- 📦 Create **Flutter packages** for developer productivity
-- 🔧 Use **native platform channels** (Kotlin) for Android widgets and features
+- 📱 Build **cross-platform mobile apps**
+- 🗄️ Design **offline-first data layers** with encrypted storage
+- 🔥 Integrate **Firebase** (Auth, Firestore, Realtime DB, Remote Config, Analytics, Crashlytics)
+- 🤖 Add **AI features**
+- 🔧 Direct and debug **native platform-channel modules**
+- 💰 Implement **full monetization** — Google Mobile Ads, In-App Purchases, Remote Config–driven ad control
+- 📦 Build and publish **Flutter packages** for reuse across projects
+- 🎨 Craft **responsive, animated UI** 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-`Flutter` • `Dart` • `Kotlin` • `C++`
+**Languages**
+`Dart` • `C++`
 
-**State Management & Architecture**  
-`GetX` • `Riverpod` • `Provider` • `Clean Architecture`
+**State Management & Architecture**
+`GetX` • `Riverpod` • `BLoC` • `Provider` • `Clean Architecture` • `MVVM` • `Dependency Injection`
 
-**Backend & Storage**  
-`Firebase` • `SQLite (sqflite)` • `REST APIs` • `SharedPreferences` • `Secure Storage`
+**Backend & Cloud**
+`Firebase` (Auth, Firestore, Realtime DB, Remote Config, Crashlytics, Analytics) • `REST APIs` • `OneSignal`
 
-**UI/UX**  
-`Material Design 3` • `Lottie Animations` • `Shimmer` • `Custom Widgets` • `Responsive Design`
+**Data & Storage**
+`SQLite (sqflite)` • `flutter_secure_storage` • `SharedPreferences` • `AES-GCM asset encryption`
 
-**Monetization & Analytics**  
+**Native Integration**
+Android & iOS platform-channel modules (Kotlin/Swift) — implemented with AI-assisted coding, directed and debugged using core Dart/C++ understanding
+
+**Testing & Quality**
+`flutter_test` (Unit, Widget, Integration) • Breakpoint debugging • Code review & performance profiling (jank, memory leaks, cold-start)
+
+**UI/UX**
+`Material Design 3` • `Lottie` • `Shimmer` • Custom widgets • Responsive design
+
+**Monetization & Analytics**
 `Google Mobile Ads` • `In-App Purchases` • `Firebase Analytics` • `OneSignal Push Notifications`
 
-**Tools**  
-`Android Studio` • `VS Code` • `Git/GitHub` • `Postman` • `Figma` • `Photoshop`
+**Tools & Workflow**
+`Android Studio` • `VS Code` • `Git/GitHub` • `Google Play Console` • `pub.dev` • `Postman` • `Figma` • `Photoshop` • `CI/CD (GitHub)`
 
 ---
 
 ## 🎯 Featured Projects
 
-### 📐 [Math Equation Solver](https://github.com/hamza-flutterdev)
-Mobile math solver with camera & manual input that generates AI-powered step-by-step solutions.
-- 📷 **Camera input** for equation recognition
-- 🤖 **OpenAI integration** for solution generation
-- 📚 **Offline formula library** with local saving
-- 🔥 **Firebase** (Analytics, Remote Config)
-- **Tech**: Flutter, OpenAI API, SQLite, Firebase
+*the ones I'd actually walk you through.*
+
+### 🚦 [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration)
+Offline-first UK driving theory app — Highway Code reader, topic-based quizzes, case studies, and a reaction-time test, backed by an **AES-GCM encrypted local database**.
+
+- 📖 Searchable Highway Code reader, quizzes with review & progress tracking, traffic sign reference
+- 🔒 Encrypted SQLite + assets, with the key delivered through a native Android/iOS key-provider module — directed and debugged to resist reverse engineering
+- 🐍 Content sourced and cleaned from official UK Highway Code material via Python scripts
+- 🔔 Local notifications, deferred quiz reminders, and cached video downloads
+- 🔥 Firebase (Crashlytics, Analytics, Remote Config, Firestore) • OneSignal • In-app purchases • Ads
+
+**Tech**: Flutter (Riverpod codegen, Freezed), Python, sqflite, `flutter_secure_storage`, Firebase
 
 ---
 
-### 🌍 [World Explorer](https://github.com/hamza-flutterdev)
+### 📘 [Learn English Speaking](https://play.google.com/store/apps/details?id=com.unisoftaps.learnenglishfromurdu)
+Offline English-learning app for Urdu speakers — **100,000+ downloads** on the Play Store.
+
+- 📚 Vocabulary and grammar modules backed by a local SQLite database
+- 🤖 AI-assisted dictionary lookup
+- 🗣️ Text-to-speech for pronunciation practice
+- 💾 Fully offline access
+
+**Tech**: Flutter, GetX, SQLite, Google TTS, Firebase
+
+---
+
+### 📐 [AI Maths Teacher](https://play.google.com/store/apps/details?id=com.mathequations.solvemathsproblems)
+Camera and manual-input math solver that generates AI-powered, step-by-step solutions.
+
+- 📷 Camera-based equation recognition (`image_picker`, `image_cropper`)
+- ⌨️ Custom equation input built on a **forked and modified `math_keyboard` package**
+- 🤖 AI-generated step-by-step explanations
+- 📚 Offline formula library
+- 🔥 Firebase Remote Config & Analytics
+
+**Tech**: Flutter, AI API, `math_keyboard_fork` (forked), Firebase
+
+---
+
+### 🎓 [F5 CS Notes](https://play.google.com/store/apps/details?id=com.btechno.codenamehasan)
+Computer science exam-prep app with MCQs, short-answer practice, and an AI tutor.
+
+- 📝 MCQ and short-answer practice with result history
+- 🤖 Built-in AI tutor for on-demand help
+- 🔐 Firebase Auth & Firestore for accounts and content
+- 🛡️ Screenshot / screen-recording prevention to protect paid content
+- 💰 Premium subscription system with chapter locking and in-app purchases
+
+**Tech**: Flutter, GetX, Firebase Auth/Firestore, AI API integration
+
+---
+
+<details>
+<summary><strong>📂 More projects</strong></summary>
+
+<br>
+
+### 🌍 World Explorer
 Real-time interactive Earth explorer with maps, earthquake tracking, and location insights.
-- 🗺️ **Interactive Google Maps** with country insights & nearby amenities
-- ⚡ **WebSocket-based earthquake alerts** in real-time
-- 🌤️ **Live weather** & compass features
-- 🔥 **Firebase** (Remote Config, Analytics, Crashlytics)
-- 💰 **Full monetization** (Ads + In-App Purchases)
-- **Tech**: Flutter, WebSockets, Google Maps API, Firebase, OneSignal
+- Interactive Google Maps with country insights & nearby amenities
+- WebSocket-based real-time earthquake alerts
+- Live weather & compass features
+- Firebase (Remote Config, Analytics, Crashlytics) • Full monetization (Ads + IAP)
 
----
+*Tech: Flutter, WebSockets, Google Maps API, Firebase, OneSignal*
 
-### 🎨 [Chat Sticker - WhatsApp Sticker Maker](https://github.com/hamza-flutterdev)
-Complete sticker creation app with built-in, AI-generated, and custom gallery stickers.
-- ✂️ **Image editing, compression, export** to WhatsApp
-- 🤖 **AI-generated stickers**
-- 💰 **Ads + In-App Purchases**
-- 🎭 **Animated responsive UI** (Riverpod, Lottie, Shimmer)
-- 🔥 **Firebase Remote Config** for ad control
-- **Tech**: Flutter, Riverpod, Image processing, Firebase
+### 🎨 Chat Sticker — WhatsApp Sticker Maker
+Sticker creation app with built-in, AI-generated, and custom gallery stickers.
+- Image editing, compression, and export to WhatsApp
+- AI-generated stickers
+- Animated, responsive UI (Riverpod, Lottie, Shimmer)
+- Firebase Remote Config for ad control
 
----
+*Tech: Flutter, Riverpod, image processing, Firebase*
 
-### 🇯🇵 [Learn Japanese Speaking](https://github.com/hamza-flutterdev)
-Comprehensive language learning app for Hiragana, Katakana, Kanji, and JLPT preparation.
-- 📚 **Structured SQLite databases + JSON** for robust offline support
-- 🤖 **AI dictionary & translation**
-- 🗣️ **Speech-to-text (STT)** and **text-to-speech (TTS)**
-- 📊 **Quizzes, progress tracking, analytics**
-- 🌙 **Dark mode** with Lottie animations
-- 💰 **Full monetization** (Ads + In-App Purchases)
-- **Tech**: Flutter, SQLite, AI APIs, Firebase, OneSignal
+### 🇯🇵 Learn Japanese Speaking
+Language-learning app covering Hiragana, Katakana, Kanji, and JLPT prep.
+- Structured SQLite + JSON for robust offline support
+- AI dictionary & translation, speech-to-text and text-to-speech
+- Quizzes, progress tracking, analytics, dark mode with Lottie
 
----
+*Tech: Flutter, SQLite, AI APIs, Firebase, OneSignal*
 
 ### ☁️ Weather Apps Series
-Built **4 region-specific weather apps** with iterative improvements in architecture, performance, and monetization.
+Four region-specific weather apps, each an iteration on architecture, performance, and monetization.
+- **Estonia Weather** — native Android widget via platform channels, hourly/7-day forecasts, geolocation
+- **Tonga Weather** — dynamic animated backgrounds, OneSignal push notifications, Remote Config + Ads
+- **Honduras Weather** — native ads + maps integration, batch weather loading, Analytics & Crashlytics
+- **Malta Weather** — minimalist gradient UI, performance-optimized, smooth transitions
 
-#### 🇪🇪 Estonia Weather
-- 📱 **Native Android widget** (platform channels)
-- 📅 Hourly/7-day forecasts, geolocation, dark mode
-- ✨ Shimmer loaders & animated UI
+*Tech: Flutter, GetX, Kotlin, REST APIs, Firebase, OneSignal, Platform Channels*
 
-#### 🇹🇴 Tonga Weather
-- 🌈 **Dynamic animated backgrounds** based on weather
-- 🔔 **Push notifications** (OneSignal)
-- 🔥 Firebase Remote Config + Ads
+### 🎯 GK Quiz App
+22-screen educational quiz app with AI integration.
+- AI-powered assistance (Google Gemini) and speech recognition
+- Progress analytics with visual charts
+- Google Mobile Ads
 
-#### 🇭🇳 Honduras Weather
-- 📍 **Native Ads + Maps** integration
-- ⚡ Batch weather loading for performance
-- 📊 Firebase Analytics & Crashlytics
+*Tech: Flutter, GetX, SQLite, Firebase, Google AI*
 
-#### 🇲🇹 Malta Weather
-- 🎨 **Minimalist gradient UI**
-- ⚡ Performance optimized
-- 🔄 Smooth transitions
-
-**Tech Stack**: Flutter, GetX, Kotlin, REST APIs, Firebase, OneSignal, Platform Channels
+</details>
 
 ---
 
-### 🎯 [GK Quiz App](https://github.com/hamza-flutterdev)
-22-screen educational quiz app with AI integration and monetization.
-- 🤖 **AI-powered assistance** (Google Gemini)
-- 🗣️ **Speech recognition**
-- 📊 **Progress analytics** with visual charts
-- 💰 **Google Mobile Ads**
-- **Tech**: Flutter, GetX, SQLite, Firebase, Google AI
+## 📦 Package Development
 
----
+I've worked on two published pub.dev packages, plus a fork for internal use:
 
-### 📘 [Learn English App](https://github.com/hamza-flutterdev)
-Language learning app for Urdu speakers with vocabulary, grammar, and pronunciation modules.
-- 📖 Vocabulary & grammar lessons
-- 🤖 **AI dictionary**
-- 🗣️ **Text-to-speech (TTS)**
-- 💾 **Offline access** with SQLite
-- ✨ Custom animations
-- **Tech**: Flutter, GetX, SQLite, Google TTS, Firebase
-
----
-
-## 🧩 Personal Learning Projects
-
-### 🛒 [MagiKart - Grocery App](https://github.com/hamza-flutterdev/magikart-grocery-app)
-E-commerce simulation with authentication, product browsing, and cart management.
-- **Tech**: Flutter, Provider, SQLite, Clean Architecture
-
-### 🌤️ [EZ Horizon - Weather App](https://github.com/hamza-flutterdev)
-Real-time weather with geolocation and animated visuals.
-- **Tech**: Flutter, REST APIs, Lottie Animations
-
-### 💬 [WhatsApp Clone](https://github.com/hamza-flutterdev/WhatsApp-Clone)
-Pixel-perfect UI clone with dark/light theme persistence.
-- **Tech**: Flutter, Material Design, SharedPreferences
-
----
-
-## 📦 Open Source Contributions
-
-🎹 **[Flutter Multilingual Keyboard](https://pub.dev/packages/flutter_multilingual_keyboard)** - My first published Flutter package for easy multilingual input support
+| Package | Description | Stats |
+|---|---|---|
+| 🎹 [**flutter_multilingual_keyboard**](https://pub.dev/packages/flutter_multilingual_keyboard) | My own package, published solo — an in-app Urdu/English keyboard, architected to scale to more languages via fork | 37 downloads · 150 pub points |
+| 📢 [**smart_ads_manager**](https://pub.dev/packages/smart_ads_manager) | Worked on this one with a teammate — streamlines ad-network integration across our Flutter apps | 140 downloads · 120 pub points |
+| ⌨️ **math_keyboard_fork** | Forked and modified `math_keyboard` to support custom equation input for AI Maths Teacher | Powers a live production app |
 
 ---
 
 ## 💼 Professional Experience
 
-**Junior Flutter Developer** @ Teramob Technologies  
-*Aug 2025 - Present | Rawalpindi, Pakistan*
-- Delivered multiple production-ready apps from concept to deployment
-- Built and published Flutter package on pub.dev
-- Led feature implementation and performance optimization
+**Junior Flutter Developer** · Teramob Technologies
+*Aug 2025 – Present | Rawalpindi, Pakistan*
+- Delivered **15+ production Flutter apps** and contributed features/fixes to 5–10 more, using GetX, Riverpod, and BLoC — collectively **150,000+ downloads** on the Play Store
+- Built and customized Flutter packages, reused across projects to cut new-feature bootstrap time
+- Profiled and resolved performance issues — jank, memory leaks, slow cold-start
+- Participated in code reviews and architecture discussions, keeping standards consistent across projects
 - Refactored existing apps (e.g., Noorani Qaida) for better maintainability
 
-**Flutter Developer Intern** @ Teramob Technologies  
-*May 2025 - Aug 2025*
-- Built 6 full-scale apps with state management, SQLite, and native integrations
-- Promoted to Junior Developer after successful internship
+**Flutter Developer Intern** · Teramob Technologies
+*May 2025 – Aug 2025*
+- Built 6 full-scale apps implementing GetX state management, SQLite persistence, and native Android platform-channel integrations under senior mentorship
+- Promoted to Junior Developer at the end of the internship
+
+<details>
+<summary>Before Flutter</summary>
+<br>
+
+**Customer Interaction Officer** · Clean & Green Services *(Oct 2023 – Oct 2024)* — Managed client communications, quotations, and CRM records.
+
+</details>
 
 ---
 
 ## 📚 Education
 
-🎓 **Bachelor's in Data Science (BS-DS)** - Virtual University *(Ongoing)*  
-🎓 **Bachelor of Commerce (B-Com)** - Allama Iqbal Open University *(2025)*  
-🎓 **Intermediate in Computer Science (ICS)** - Federal Board (FBISE) *(2019)*
-
----
+🎓 **Bachelor of Science in Data Science (BS-DS)** — Virtual University *(In Progress)*
+🎓 **Bachelor of Commerce (B-Com)** — Allama Iqbal Open University *(2025)*
+🎓 **Intermediate in Computer Science (ICS)** — Federal Board (FBISE) *(2019)*
 
 ## 🏆 Certifications
 
-✅ UI/UX Fundamentals (2022)  
-✅ Video Editing Fundamentals (2022)  
-✅ Social Media Management (2022)  
-✅ Graphic Design with Adobe Photoshop (2020)  
-✅ Digital Marketing (2020)
+✅ UI/UX Fundamentals (2022)
 
 ---
 
 ## 📫 Let's Connect!
 
-💼 **[LinkedIn](https://linkedin.com/in/hamza-flutterdev)**  
-📧 **[hamzabutthb553.hb@gmail.com](mailto:hamzabutthb553.hb@gmail.com)**  
-📱 **+92 333 8475886**  
-🎥 **YouTube Content Creator** *(Aug 2018 - Present)*
-
+💼 **[LinkedIn](https://linkedin.com/in/hamza-flutterdev)**
+💻 **[GitHub](https://github.com/hamza-flutterdev)**
+📧 **[hamzabutthb553.hb@gmail.com](mailto:hamzabutthb553.hb@gmail.com)**
 ---
 
-💡 *I'm passionate about building impactful mobile experiences and open to opportunities where I can contribute to innovative projects, grow my expertise, and deliver real value through technology.*
+<div align="center">
 
-🚀 **Let's build something amazing together!**
+💡 *I'm passionate about building impactful mobile experiences — and open to opportunities where I can grow my expertise and deliver real value through technology.*
+
+**🚀 Let's build something amazing together!**
+
+</div>
