@@ -4,6 +4,9 @@
 
 ### Software Engineer building production applications with Flutter & Python
 
+**Featured apps:** [IELTS Practice & Test Prep](https://play.google.com/store/apps/details?id=com.advancedieltstestpreparation) • [Universal File Converter](https://play.google.com/store/apps/details?id=com.multiapp.fileexplorer)
+
+
 📍 Islamabad, Pakistan  •  🏢 Junior Flutter Developer @ Teramob Technologies
 
 [LinkedIn](https://linkedin.com/in/hamza-flutterdev) • [GitHub](https://github.com/hamza-flutterdev) • [Email](mailto:hamzabutthb553.hb@gmail.com)
