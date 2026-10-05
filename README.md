@@ -2,9 +2,9 @@
 
 # Hey, I'm Hamza Shahid 👋
 
-### Software Engineer building production applications with Flutter, Python & AI
+### Software Engineer building production applications with Flutter & Python
 
-📍 Islamabad, Pakistan  •  🏢 Junior Flutter Developer @ Teramob Technologies
+📍 Islamabad, Pakistan  •  🏢 Junior Flutter Developer @ Teramob Technologies
 
 [LinkedIn](https://linkedin.com/in/hamza-flutterdev) • [GitHub](https://github.com/hamza-flutterdev) • [Email](mailto:hamzabutthb553.hb@gmail.com)
 
@@ -14,16 +14,16 @@
 
 ## About Me
 
-I build and ship production software — not demos. In a bit over a year at **Teramob Technologies**, I've taken **15+ apps** from architecture to the Play Store, contributed to another 5–10, and collectively they've crossed **150,000+ downloads**. I've also published my own Flutter package on pub.dev and worked on a second one alongside a teammate.
+I build and ship production software, not demos. In about **1.5 years** at **Teramob Technologies**, I've shipped **20+ production mobile apps** that have collectively crossed **160,000+ downloads**. I also published my own Flutter package on pub.dev and have customized and forked others for use across our apps.
 
-My strongest area is **Flutter and mobile development**, while I’m expanding into **Python, backend development, and AI-powered products**. I care about building software that is practical and maintainable — from offline-first data design and clean architecture to API integrations, AI features, debugging, testing, and release.
+My strongest area is **Flutter and mobile development**: Clean Architecture, state management (BLoC / Riverpod / GetX), and native platform integration. I'm now extending into **backend development with Python, FastAPI and PostgreSQL** so I can own features end-to-end, from API to UI.
 
-I also use modern **AI-assisted development tools** to investigate unfamiliar technologies, accelerate implementation, explore solutions, and improve development workflows while reviewing and validating the resulting code myself.
+I use modern **AI-assisted development tools** to investigate unfamiliar technologies and speed up implementation, but I direct, debug, and validate the resulting code myself rather than accepting it at face value.
 
 <div align="center">
 
-| 🚀 15+ Apps Shipped | 📲 150,000+ Downloads | ⏱️ 1+ Years in Production |
-| :-----------------: | :-------------------: | :-----------------------: |
+| 🚀 20+ Apps Shipped | 📲 160,000+ Downloads | ⏱️ 1.5 Years in Production |
+| :-----------------: | :-------------------: | :------------------------: |
 
 </div>
 
@@ -31,16 +31,17 @@ I also use modern **AI-assisted development tools** to investigate unfamiliar te
 
 ## 🚀 What I Do
 
-* 📱 Build **cross-platform mobile applications**
-* 🐍 Build with **Python** for automation, tooling, and backend development
+* 📱 Build **cross-platform mobile applications** with Flutter
+* 🏗️ Apply **Clean Architecture**, MVVM and dependency injection for maintainable code
+* 🐍 Learn and build with **Python & FastAPI** for backend development and tooling
 * 🤖 Integrate **AI capabilities** into real-world applications
 * 🗄️ Design **offline-first data layers** with encrypted storage
 * 🔥 Integrate **Firebase** (Auth, Firestore, Realtime DB, Remote Config, Analytics, Crashlytics)
 * 🌐 Work with **REST APIs** and third-party services
 * 🔧 Direct and debug **native Android/iOS platform integrations**
-* 💰 Implement **monetization systems** — Google Mobile Ads, In-App Purchases, Remote Config-driven ad control
-* 📦 Build and publish **Flutter packages** for reuse across projects
-* 🎨 Craft **responsive, animated UI**
+* 💰 Implement **monetization systems**: Google Mobile Ads, In-App Purchases, Remote Config-driven ad control
+* 📦 Build, customize and publish **Flutter packages** for reuse across projects
+* ⚡ Profile and fix performance issues (jank, memory leaks, slow cold-start)
 
 ---
 
@@ -49,32 +50,29 @@ I also use modern **AI-assisted development tools** to investigate unfamiliar te
 **Languages**
 `Dart` • `Python` • `C++`
 
+**Flutter & Mobile**
+`Flutter SDK` • `Null Safety` • `Platform Channels` • `Responsive UI`
+
 **State Management & Architecture**
-`GetX` • `Riverpod` • `BLoC` • `Provider` • `Clean Architecture` • `MVVM` • `Dependency Injection`
+`Riverpod` • `GetX` • `BLoC` • `Provider` • `Clean Architecture` • `MVVM` • `MVC` • `Dependency Injection`
 
 **Backend & Cloud**
-`Python` • `Firebase` (Auth, Firestore, Realtime DB, Remote Config, Crashlytics, Analytics) • `REST APIs` • `OneSignal`
+`Firebase` (Auth, Firestore, Realtime DB, Remote Config, Crashlytics, Analytics) • `REST APIs` • `OneSignal`
+
+**Python & Backend (Learning)**
+`Python` (core syntax, OOP) • `FastAPI` • `PostgreSQL` (basics) • `pandas` & `NumPy` • `Matplotlib` • `Seaborn`
 
 **Data & Storage**
-`SQLite (sqflite)` • `flutter_secure_storage` • `SharedPreferences` • `AES-GCM asset encryption`
-
-**AI**
-`AI API Integration` • `AI-powered application features` • `AI-assisted development`
+`SQLite (sqflite)` • `Drift` • `flutter_secure_storage` • `SharedPreferences` • `AES-GCM asset encryption`
 
 **Native Integration**
-Android & iOS platform-channel modules (Kotlin/Swift) — implemented with AI-assisted coding, directed and debugged using core Dart/C++ understanding
+Android (Kotlin / C++) & iOS (Swift) platform-channel modules, implemented with AI-assisted coding and directed and debugged using core Dart/C++ understanding
 
 **Testing & Quality**
-`flutter_test` (Unit, Widget, Integration) • Breakpoint debugging • Code review & performance profiling (jank, memory leaks, cold-start)
-
-**UI/UX**
-`Material Design 3` • `Lottie` • `Shimmer` • Custom widgets • Responsive design
-
-**Monetization & Analytics**
-`Google Mobile Ads` • `In-App Purchases` • `Firebase Analytics` • `OneSignal Push Notifications`
+`flutter_test` (Unit, Widget, Integration) • Breakpoint debugging • Code review
 
 **Tools & Workflow**
-`Android Studio` • `VS Code` • `Git/GitHub` • `Google Play Console` • `pub.dev` • `Postman` • `Figma` • `Photoshop` • `CI/CD (GitHub)`
+`Git/GitHub` • `CI/CD (GitHub)` • `Android Studio` • `VS Code` • `Google Play Console` • `pub.dev` • `Postman`
 
 ---
 
@@ -84,28 +82,28 @@ Android & iOS platform-channel modules (Kotlin/Swift) — implemented with AI-as
 
 ### 🚦 [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration)
 
-Offline-first UK driving theory app — Highway Code reader, topic-based quizzes, case studies, and a reaction-time test, backed by an **AES-GCM encrypted local database**.
+Offline-first UK driving theory app with quizzes, progress tracking, WebView-rendered lessons, and cached video downloads, backed by **encrypted local SQLite storage**.
 
-* 📖 Searchable Highway Code reader, quizzes with review & progress tracking, traffic sign reference
-* 🔒 Encrypted SQLite + assets, with the key delivered through a native Android/iOS key-provider module — directed and debugged to resist reverse engineering
+* 📖 Highway Code reader, topic-based quizzes with review & progress tracking, traffic sign reference
+* 🔒 Encrypted local database, with a native Android (C++) and iOS (Swift, AI-assisted) module that I directed and debugged to protect encryption keys from reverse engineering
 * 🐍 Content sourced and cleaned from official UK Highway Code material via Python scripts
 * 🔔 Local notifications, deferred quiz reminders, and cached video downloads
 * 🔥 Firebase (Crashlytics, Analytics, Remote Config, Firestore) • OneSignal • In-app purchases • Ads
 
-**Tech**: Flutter (Riverpod codegen, Freezed), Python, sqflite, `flutter_secure_storage`, Firebase
+**Tech**: Flutter (Riverpod codegen, Freezed), Python, SQLite, WebView, C++, Swift, `flutter_secure_storage`, Firebase
 
 ---
 
 ### 📘 [Learn English Speaking](https://play.google.com/store/apps/details?id=com.unisoftaps.learnenglishfromurdu)
 
-Offline English-learning app for Urdu speakers — **100,000+ downloads** on the Play Store.
+Offline English-learning app for Urdu speakers with **100,000+ downloads** on the Play Store.
 
 * 📚 Vocabulary and grammar modules backed by a local SQLite database
 * 🤖 AI-assisted dictionary lookup
 * 🗣️ Text-to-speech for pronunciation practice
 * 💾 Fully offline access
 
-**Tech**: Flutter, GetX, SQLite, Google TTS, Firebase
+**Tech**: Flutter, GetX, SQLite, Google TTS, AI Integration, Firebase
 
 ---
 
@@ -153,7 +151,7 @@ Real-time interactive Earth explorer with maps, earthquake tracking, and locatio
 
 *Tech: Flutter, WebSockets, Google Maps API, Firebase, OneSignal*
 
-### 🎨 Chat Sticker — WhatsApp Sticker Maker
+### 🎨 Chat Sticker: WhatsApp Sticker Maker
 
 Sticker creation app with built-in, AI-generated, and custom gallery stickers.
 
@@ -178,10 +176,10 @@ Language-learning app covering Hiragana, Katakana, Kanji, and JLPT prep.
 
 Four region-specific weather apps, each an iteration on architecture, performance, and monetization.
 
-* **Estonia Weather** — native Android widget via platform channels, hourly/7-day forecasts, geolocation
-* **Tonga Weather** — dynamic animated backgrounds, OneSignal push notifications, Remote Config + Ads
-* **Honduras Weather** — native ads + maps integration, batch weather loading, Analytics & Crashlytics
-* **Malta Weather** — minimalist gradient UI, performance-optimized, smooth transitions
+* **Estonia Weather**: native Android widget via platform channels, hourly/7-day forecasts, geolocation
+* **Tonga Weather**: dynamic animated backgrounds, OneSignal push notifications, Remote Config + Ads
+* **Honduras Weather**: native ads + maps integration, batch weather loading, Analytics & Crashlytics
+* **Malta Weather**: minimalist gradient UI, performance-optimized, smooth transitions
 
 *Tech: Flutter, GetX, Kotlin, REST APIs, Firebase, OneSignal, Platform Channels*
 
@@ -201,13 +199,11 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 ## 📦 Package Development
 
-I've worked on two published pub.dev packages, plus a fork for internal use:
-
-| Package                                                                                        | Description                                                                                                       | Stats                          |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 🎹 [**flutter_multilingual_keyboard**](https://pub.dev/packages/flutter_multilingual_keyboard) | My own package, published solo — an in-app Urdu/English keyboard, architected to scale to more languages via fork | 37 downloads · 150 pub points  |
-| 📢 [**smart_ads_manager**](https://pub.dev/packages/smart_ads_manager)                         | Worked on this one with a teammate — streamlines ad-network integration across our Flutter apps                   | 140 downloads · 120 pub points |
-| ⌨️ **math_keyboard_fork**                                                                      | Forked and modified `math_keyboard` to support custom equation input for AI Maths Teacher                         | Powers a live production app   |
+| Package                                                                                        | Description                                                                                                              | Stats                          |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| 🎹 [**flutter_multilingual_keyboard**](https://pub.dev/packages/flutter_multilingual_keyboard) | Published and maintained by me: an in-app Urdu/English keyboard, architected to scale to additional languages via fork    | 37 downloads · 150 pub points  |
+| 📢 [**smart_ads_manager**](https://pub.dev/packages/smart_ads_manager)                         | Customized this package, which streamlines ad-network integration across our Flutter apps                                | 140 downloads · 120 pub points |
+| ⌨️ **math_keyboard_fork**                                                                      | Forked and modified `math_keyboard` to support custom equation input for [AI Maths Teacher](https://play.google.com/store/apps/details?id=com.mathequations.solvemathsproblems) | Powers a live production app   |
 
 ---
 
@@ -216,24 +212,22 @@ I've worked on two published pub.dev packages, plus a fork for internal use:
 **Junior Flutter Developer** · Teramob Technologies
 *Aug 2025 – Present | Rawalpindi, Pakistan*
 
-* Delivered **15+ production Flutter apps** and contributed features/fixes to 5–10 more, using GetX, Riverpod, and BLoC — collectively **150,000+ downloads** on the Play Store
-* Built and customized Flutter packages, reused across projects to cut new-feature bootstrap time
-* Profiled and resolved performance issues — jank, memory leaks, slow cold-start
-* Participated in code reviews and architecture discussions, keeping standards consistent across projects
-* Refactored existing apps for improved maintainability and code quality
+* Delivered **15+ production Flutter apps** and contributed feature enhancements and bug fixes to 10–15 additional apps, using GetX, Riverpod, and BLoC
+* Built and customized Flutter packages by forking for local use, reused across projects to cut new-feature bootstrap time
+* Profiled and resolved performance issues: jank, memory leaks, slow cold-start
+* Participated in code reviews and architecture discussions, maintaining consistent standards across projects
 
 **Flutter Developer Intern** · Teramob Technologies
 *May 2025 – Aug 2025*
 
-* Built 6 full-scale apps implementing GetX state management, SQLite persistence, and native Android platform-channel integrations under senior mentorship
-* Promoted to Junior Developer at the end of the internship
+* Built 6 full-scale Flutter apps implementing GetX state management, SQLite persistence (sqflite), and native Android platform-channel integrations under mentorship from senior developers
 
 <details>
 <summary>Before Flutter</summary>
 
 <br>
 
-**Customer Interaction Officer** · Clean & Green Services *(Oct 2023 – Oct 2024)* — Managed client communications, quotations, and CRM records.
+**Customer Interaction Officer** · Clean & Green Services *(Oct 2023 – Oct 2024)*: managed client communications, quotations, and CRM records.
 
 </details>
 
@@ -241,9 +235,9 @@ I've worked on two published pub.dev packages, plus a fork for internal use:
 
 ## 📚 Education
 
-🎓 **Bachelor of Science in Data Science (BS-DS)** — Virtual University *(In Progress)*
-🎓 **Bachelor of Commerce (B-Com)** — Allama Iqbal Open University *(2025)*
-🎓 **Intermediate in Computer Science (ICS)** — Federal Board (FBISE) *(2019)*
+🎓 **Bachelor of Science in Data Science (BS-DS)**: Virtual University *(In Progress)*
+🎓 **Bachelor of Commerce (B-Com)**: Allama Iqbal Open University *(2025)*
+🎓 **Intermediate in Computer Science (ICS)**: Federal Board (FBISE) *(2019)*
 
 ## 🏆 Certifications
 
@@ -261,7 +255,7 @@ I've worked on two published pub.dev packages, plus a fork for internal use:
 
 <div align="center">
 
-💡 *I’m focused on building practical, maintainable software and expanding from mobile development into Python, backend engineering, and AI-powered products.*
+💡 *I'm focused on building practical, maintainable software and expanding from mobile development into Python, backend engineering, and AI-powered products.*
 
 **🚀 Let's build something amazing together!**
 
