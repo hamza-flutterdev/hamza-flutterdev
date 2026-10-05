@@ -83,6 +83,33 @@ Android (Kotlin / C++) & iOS (Swift) platform-channel modules, implemented with 
 
 *the ones I'd actually walk you through.*
 
+### 📁 [Universal File Converter](https://play.google.com/store/apps/details?id=com.multiapp.fileexplorer)
+
+A Flutter app for previewing and converting common files on-device. It handles documents, spreadsheets, structured data, ebooks, and images, and keeps source files off conversion servers.
+
+* 📄 Preview PDFs, images, EPUBs, documents, structured data, and paged spreadsheets
+* 🔄 Convert compatible formats including PDF, DOCX, PPTX, HTML, Markdown, TXT, XLSX, XLS, ODS, CSV, TSV, JSON, XML, YAML, EPUB, JPG, and PNG
+* 📊 Show staged progress, compatibility warnings, and conversion fidelity information
+* 💾 Save and share results, revisit local conversion history, and browse supported archive contents
+* 🌙 Light, dark, and system themes, with optional Premium plans
+
+**Tech**: Flutter, Dart, BLoC, GoRouter, PDFium/native PDF rendering, WebView previews
+
+---
+
+### 🎓 [IELTS Practice & Test Prep](https://play.google.com/store/apps/details?id=com.advancedieltstestpreparation)
+
+IELTS preparation for Academic and General Training, with practice and study tools across the four test modules.
+
+* 📚 Reading and listening practice, including section-wise exercises
+* ⏱️ Timed exercises and mock tests with progress tracking
+* 🗣️ Speaking prompts, cue cards, model answers, and tips
+* 📝 Academic and General Training writing practice, plus vocabulary and grammar study
+
+---
+
+
+
 ### 🚦 [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration)
 
 Offline-first UK driving theory app with quizzes, progress tracking, WebView-rendered lessons, and cached video downloads, backed by **encrypted local SQLite storage**.
