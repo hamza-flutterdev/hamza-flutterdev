@@ -4,7 +4,7 @@
 
 ### Software Engineer building production applications with Flutter & Python
 
-**Featured apps:** [IELTS Practice & Test Prep](https://play.google.com/store/apps/details?id=com.advancedieltstestpreparation) • [Universal File Converter](https://play.google.com/store/apps/details?id=com.multiapp.fileexplorer)
+**Featured apps:** [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration) • [GymDesk](https://play.google.com/store/apps/details?id=com.gym.desk) • [Learn English Speaking](https://play.google.com/store/apps/details?id=com.unisoftaps.learnenglishfromurdu)
 
 
 📍 Islamabad, Pakistan  •  🏢 Junior Flutter Developer @ Teramob Technologies
@@ -83,6 +83,34 @@ Android (Kotlin / C++) & iOS (Swift) platform-channel modules, implemented with 
 
 *the ones I'd actually walk you through.*
 
+### 🚦 [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration)
+
+Offline-first UK driving theory app with quizzes, progress tracking, WebView-rendered lessons, and cached video downloads, backed by **encrypted local SQLite storage**.
+
+* 📖 Highway Code reader, topic-based quizzes with review & progress tracking, traffic sign reference
+* 🔒 Encrypted local database, with a native Android (C++) and iOS (Swift, AI-assisted) module that I directed and debugged to protect encryption keys from reverse engineering
+* 🐍 Content sourced and cleaned from official UK Highway Code material via Python scripts
+* 🔔 Local notifications, deferred quiz reminders, and cached video downloads
+* 🔥 Firebase (Crashlytics, Analytics, Remote Config, Firestore) • OneSignal • In-app purchases • Ads
+
+**Tech**: Flutter (Riverpod codegen, Freezed), Python, SQLite, WebView, C++, Swift, `flutter_secure_storage`, Firebase
+
+---
+
+### 🏋️ [GymDesk — Gym Management App](https://play.google.com/store/apps/details?id=com.gym.desk)
+
+My second independently published app, released through my own Google Play developer account. GymDesk is a local-first app that helps gym staff manage day-to-day operations from one workspace.
+
+* 👥 Manage member admissions, profiles, memberships, renewals, and status
+* ✅ Record attendance check-ins and visit history
+* 💳 Track payments and create invoices
+* 📋 Create reusable membership plans
+* 💾 Store records locally with Drift and SQLite, with backup and restore support
+
+**Tech**: Flutter, Dart, BLoC, Drift, SQLite, Google Play Billing
+
+---
+
 ### 📁 [Universal File Converter](https://play.google.com/store/apps/details?id=com.multiapp.fileexplorer)
 
 A Flutter app for previewing and converting common files on-device. It handles documents, spreadsheets, structured data, ebooks, and images, and keeps source files off conversion servers.
@@ -105,22 +133,6 @@ IELTS preparation for Academic and General Training, with practice and study too
 * ⏱️ Timed exercises and mock tests with progress tracking
 * 🗣️ Speaking prompts, cue cards, model answers, and tips
 * 📝 Academic and General Training writing practice, plus vocabulary and grammar study
-
----
-
-
-
-### 🚦 [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration)
-
-Offline-first UK driving theory app with quizzes, progress tracking, WebView-rendered lessons, and cached video downloads, backed by **encrypted local SQLite storage**.
-
-* 📖 Highway Code reader, topic-based quizzes with review & progress tracking, traffic sign reference
-* 🔒 Encrypted local database, with a native Android (C++) and iOS (Swift, AI-assisted) module that I directed and debugged to protect encryption keys from reverse engineering
-* 🐍 Content sourced and cleaned from official UK Highway Code material via Python scripts
-* 🔔 Local notifications, deferred quiz reminders, and cached video downloads
-* 🔥 Firebase (Crashlytics, Analytics, Remote Config, Firestore) • OneSignal • In-app purchases • Ads
-
-**Tech**: Flutter (Riverpod codegen, Freezed), Python, SQLite, WebView, C++, Swift, `flutter_secure_storage`, Firebase
 
 ---
 
