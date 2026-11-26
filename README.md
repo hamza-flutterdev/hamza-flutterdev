@@ -2,7 +2,7 @@
 
 # Hey, I'm Hamza Shahid 👋
 
-### Software Engineer building production applications with Flutter & Python
+### Software Engineer building mobile & web software | Flutter · Python · Open Source
 
 **Featured apps:** [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration) • [GymDesk](https://play.google.com/store/apps/details?id=com.gym.desk) • [Learn English Speaking](https://play.google.com/store/apps/details?id=com.unisoftaps.learnenglishfromurdu)
 
@@ -17,15 +17,15 @@
 
 ## About Me
 
-I build and ship production software, not demos. In about **1.5 years** at **Teramob Technologies**, I've shipped **20+ production mobile apps** that have collectively crossed **160,000+ downloads**. I also published my own Flutter package on pub.dev and have customized and forked others for use across our apps.
+I build and ship software across mobile and web, choosing a technology stack that fits each project. In about **1.5 years** at **Teramob Technologies**, I’ve contributed to **20+ production mobile apps** with more than **160,000 combined downloads**. Outside my full-time role, I build and publish my own apps through Google Play and take projects from idea to release, then improve them using user feedback.
 
-My strongest area is **Flutter and mobile development**: Clean Architecture, state management (BLoC / Riverpod / GetX), and native platform integration. I'm now extending into **backend development with Python, FastAPI and PostgreSQL** so I can own features end-to-end, from API to UI.
+My work includes **Flutter and mobile development**—architecture, state management, local-first data, and native integrations—as well as web projects using **React, TypeScript, Vite, and Three.js**. I also contribute to open source: my Material 3 primary `TabBar` indicator fix and regression test were reviewed and merged into Flutter’s `packages` repository.
 
-I use modern **AI-assisted development tools** to investigate unfamiliar technologies and speed up implementation, but I direct, debug, and validate the resulting code myself rather than accepting it at face value.
+I’m currently expanding my backend skills with **Python, FastAPI, and PostgreSQL** to take on more work across APIs and client applications.
 
 <div align="center">
 
-| 🚀 20+ Apps Shipped | 📲 160,000+ Downloads | ⏱️ 1.5 Years in Production |
+| 🚀 20+ Apps Contributed To | 📲 160,000+ Combined Downloads | ⏱️ 1.5 Years in Production |
 | :-----------------: | :-------------------: | :------------------------: |
 
 </div>
@@ -35,6 +35,7 @@ I use modern **AI-assisted development tools** to investigate unfamiliar technol
 ## 🚀 What I Do
 
 * 📱 Build **cross-platform mobile applications** with Flutter
+* 🌐 Build interactive **web experiences** with React, TypeScript, Vite, and Three.js
 * 🏗️ Apply **Clean Architecture**, MVVM and dependency injection for maintainable code
 * 🐍 Learn and build with **Python & FastAPI** for backend development and tooling
 * 🤖 Integrate **AI capabilities** into real-world applications
@@ -51,10 +52,13 @@ I use modern **AI-assisted development tools** to investigate unfamiliar technol
 ## 🛠️ Tech Stack
 
 **Languages**
-`Dart` • `Python` • `C++`
+`Dart` • `Python` • `TypeScript` • `C++`
 
 **Flutter & Mobile**
 `Flutter SDK` • `Null Safety` • `Platform Channels` • `Responsive UI`
+
+**Web**
+`React` • `TypeScript` • `Vite` • `Three.js`
 
 **State Management & Architecture**
 `Riverpod` • `GetX` • `BLoC` • `Provider` • `Clean Architecture` • `MVVM` • `MVC` • `Dependency Injection`
@@ -75,7 +79,33 @@ Android (Kotlin / C++) & iOS (Swift) platform-channel modules, implemented with 
 `flutter_test` (Unit, Widget, Integration) • Breakpoint debugging • Code review
 
 **Tools & Workflow**
-`Git/GitHub` • `CI/CD (GitHub)` • `Android Studio` • `VS Code` • `Google Play Console` • `pub.dev` • `Postman`
+`Git/GitHub` • `CI/CD (GitHub)` • `Android Studio` • `VS Code` • `Google Play Console` • `pub.dev` • `Postman` • `Vercel` • `Playwright`
+
+---
+
+## 🚀 Hackathons
+
+### [Excavation 2142 — NASA Space Apps Challenge 2026](https://excavation-2142.vercel.app/)
+
+I took part in the NASA Space Apps Challenge 2026 and worked on **Excavation 2142**, an interactive website about NASA hardware left on the Moon and Mars. Its 2142 orbital-archaeologist setting is fictional; archive facts and evidence are linked to NASA records.
+
+* 🌑 Browse **16 artifact records**: four from the Moon and twelve from Mars
+* 🗂️ Explore mission dossiers, NASA imagery, and an interactive mission timeline
+* 🔭 View interactive 3D models of the Moon and Mars
+* 🕵️ Review cited evidence in Detective Mode, adjust likelihood ratings for five possible artifacts, and make a final identification
+* 🛰️ Meaningfully uses NASA’s **NSSDCA Master Catalog** alongside NASA mission records
+
+**Tech**: React, TypeScript, Vite, Three.js, JSON
+
+**Source code**: [hamza-flutterdev/excavation_2142-nasa-space-app-2026](https://github.com/hamza-flutterdev/excavation_2142-nasa-space-app-2026)
+
+---
+
+## 🌱 Open-Source Contributions
+
+### [Flutter packages: Material 3 TabBar indicator width — PR #13322](https://github.com/flutter/packages/pull/13322)
+
+Contributed to Flutter’s `material_ui` package by enforcing a **24 logical pixel minimum width** for the default Material 3 primary `TabBar` indicator and adding a regression test for short labels. The contribution was reviewed and merged into `flutter/packages`.
 
 ---
 
@@ -297,7 +327,7 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 <div align="center">
 
-💡 *I'm focused on building practical, maintainable software and expanding from mobile development into Python, backend engineering, and AI-powered products.*
+💡 *I'm focused on building practical software across mobile and web, growing into backend engineering, and contributing to open source.*
 
 **🚀 Let's build something amazing together!**
 
