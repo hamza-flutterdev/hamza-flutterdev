@@ -2,14 +2,13 @@
 
 # Hey, I'm Hamza Shahid 👋
 
-### Software Engineer building mobile & web software | Flutter · Python · Open Source
+### Software Engineer | Flutter & Python
 
 **Featured apps:** [UK Driving Test Preparation](https://play.google.com/store/apps/details?id=com.ma.drivingtestprepration) • [GymDesk](https://play.google.com/store/apps/details?id=com.gym.desk) • [Learn English Speaking](https://play.google.com/store/apps/details?id=com.unisoftaps.learnenglishfromurdu)
 
+📍 Islamabad, Pakistan  •  🛠️ Independent Software Engineer  •  🌌 NASA Space Apps 2026  •  🔀 PR Merged into Flutter
 
-📍 Islamabad, Pakistan  •  🏢 Junior Flutter Developer @ Teramob Technologies
-
-[LinkedIn](https://linkedin.com/in/hamza-flutterdev) • [GitHub](https://github.com/hamza-flutterdev) • [Email](mailto:hamzabutthb553.hb@gmail.com)
+[LinkedIn](https://linkedin.com/in/hamzaflutterdev) • [GitHub](https://github.com/hamza-flutterdev) • [Email](mailto:hamzabutthb553.hb@gmail.com)
 
 </div>
 
@@ -17,95 +16,53 @@
 
 ## About Me
 
-I build and ship software across mobile and web, choosing a technology stack that fits each project. In about **1.5 years** at **Teramob Technologies**, I’ve contributed to **20+ production mobile apps** with more than **160,000 combined downloads**. Outside my full-time role, I build and publish my own apps through Google Play and take projects from idea to release, then improve them using user feedback.
+I'm a software engineer with more than **1.5 years** of professional experience building and shipping mobile apps. Across my work I've contributed to **20+ production apps** that have collectively crossed **160,000+ downloads**.
 
-My work includes **Flutter and mobile development**—architecture, state management, local-first data, and native integrations—as well as web projects using **React, TypeScript, Vite, and Three.js**. I also contribute to open source: my Material 3 primary `TabBar` indicator fix and regression test were reviewed and merged into Flutter’s `packages` repository.
+I take projects from idea through development and release and I handle Google Play listings, updates and user feedback myself. One of my most recent projects is [**Excavation 2142**](https://excavation-2142.vercel.app/), an interactive website I built for the **NASA Space Apps Challenge 2026**.
 
-I’m currently expanding my backend skills with **Python, FastAPI, and PostgreSQL** to take on more work across APIs and client applications.
+My strongest area is **Flutter and mobile development**: Clean Architecture, state management (BLoC / Riverpod / GetX) and native platform integration. I'm now extending into **backend development with Python, FastAPI and PostgreSQL** so I can own features end-to-end.
+
+I use modern **AI-assisted development tools** to investigate unfamiliar technologies and speed up implementation but I direct, debug and validate the resulting code myself rather than accepting it at face value.
 
 <div align="center">
 
-| 🚀 20+ Apps Contributed To | 📲 160,000+ Combined Downloads | ⏱️ 1.5 Years in Production |
-| :-----------------: | :-------------------: | :------------------------: |
+| 🚀 20+ Apps Shipped | 📲 160,000+ Downloads | ⏱️ 1.5+ Years in Production | 🔀 Merged Flutter PR | 🌌 NASA Space Apps 2026 |
+| :-----------------: | :-------------------: | :-------------------------: | :------------------: | :---------------------: |
 
 </div>
 
 ---
 
-## 🚀 What I Do
-
-* 📱 Build **cross-platform mobile applications** with Flutter
-* 🌐 Build interactive **web experiences** with React, TypeScript, Vite, and Three.js
-* 🏗️ Apply **Clean Architecture**, MVVM and dependency injection for maintainable code
-* 🐍 Learn and build with **Python & FastAPI** for backend development and tooling
-* 🤖 Integrate **AI capabilities** into real-world applications
-* 🗄️ Design **offline-first data layers** with encrypted storage
-* 🔥 Integrate **Firebase** (Auth, Firestore, Realtime DB, Remote Config, Analytics, Crashlytics)
-* 🌐 Work with **REST APIs** and third-party services
-* 🔧 Direct and debug **native Android/iOS platform integrations**
-* 💰 Implement **monetization systems**: Google Mobile Ads, In-App Purchases, Remote Config-driven ad control
-* 📦 Build, customize and publish **Flutter packages** for reuse across projects
-* ⚡ Profile and fix performance issues (jank, memory leaks, slow cold-start)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-`Dart` • `Python` • `TypeScript` • `C++`
-
-**Flutter & Mobile**
-`Flutter SDK` • `Null Safety` • `Platform Channels` • `Responsive UI`
-
-**Web**
-`React` • `TypeScript` • `Vite` • `Three.js`
-
-**State Management & Architecture**
-`Riverpod` • `GetX` • `BLoC` • `Provider` • `Clean Architecture` • `MVVM` • `MVC` • `Dependency Injection`
-
-**Backend & Cloud**
-`Firebase` (Auth, Firestore, Realtime DB, Remote Config, Crashlytics, Analytics) • `REST APIs` • `OneSignal`
-
-**Python & Backend (Learning)**
-`Python` (core syntax, OOP) • `FastAPI` • `PostgreSQL` (basics) • `pandas` & `NumPy` • `Matplotlib` • `Seaborn`
-
-**Data & Storage**
-`SQLite (sqflite)` • `Drift` • `flutter_secure_storage` • `SharedPreferences` • `AES-GCM asset encryption`
-
-**Native Integration**
-Android (Kotlin / C++) & iOS (Swift) platform-channel modules, implemented with AI-assisted coding and directed and debugged using core Dart/C++ understanding
-
-**Testing & Quality**
-`flutter_test` (Unit, Widget, Integration) • Breakpoint debugging • Code review
-
-**Tools & Workflow**
-`Git/GitHub` • `CI/CD (GitHub)` • `Android Studio` • `VS Code` • `Google Play Console` • `pub.dev` • `Postman` • `Vercel` • `Playwright`
-
----
-
-## 🚀 Hackathons
+## 🌌 Hackathons
 
 ### [Excavation 2142 — NASA Space Apps Challenge 2026](https://excavation-2142.vercel.app/)
 
-I took part in the NASA Space Apps Challenge 2026 and worked on **Excavation 2142**, an interactive website about NASA hardware left on the Moon and Mars. Its 2142 orbital-archaeologist setting is fictional; archive facts and evidence are linked to NASA records.
+I took part in the NASA Space Apps Challenge 2026 and worked on Excavation 2142, an interactive website about NASA hardware left on the Moon and Mars. Archive facts and evidence are linked to NASA records.
 
-* 🌑 Browse **16 artifact records**: four from the Moon and twelve from Mars
-* 🗂️ Explore mission dossiers, NASA imagery, and an interactive mission timeline
+* 🌑 Browse 16 artifact records: four from the Moon and twelve from Mars
+* 🗂️ Explore mission dossiers, NASA imagery and an interactive mission timeline
 * 🔭 View interactive 3D models of the Moon and Mars
-* 🕵️ Review cited evidence in Detective Mode, adjust likelihood ratings for five possible artifacts, and make a final identification
-* 🛰️ Meaningfully uses NASA’s **NSSDCA Master Catalog** alongside NASA mission records
+* 🕵️ Review cited evidence in Detective Mode, adjust likelihood ratings for five possible artifacts and make a final identification
+* 🛰️ Meaningfully uses NASA's NSSDCA Master Catalog alongside NASA mission records
 
-**Tech**: React, TypeScript, Vite, Three.js, JSON
+**Tech**: React, TypeScript, Vite, Three.js, JSON, Codex
 
 **Source code**: [hamza-flutterdev/excavation_2142-nasa-space-app-2026](https://github.com/hamza-flutterdev/excavation_2142-nasa-space-app-2026)
 
 ---
 
-## 🌱 Open-Source Contributions
+## 🔀 Open Source Contributions
 
 ### [Flutter packages: Material 3 TabBar indicator width — PR #13322](https://github.com/flutter/packages/pull/13322)
 
-Contributed to Flutter’s `material_ui` package by enforcing a **24 logical pixel minimum width** for the default Material 3 primary `TabBar` indicator and adding a regression test for short labels. The contribution was reviewed and merged into `flutter/packages`.
+Fixed a layout bug in the **Material 3 primary `TabBar` indicator**, where the indicator could be drawn narrower than the 24dp minimum width the spec requires. The fix shipped with a regression test and was reviewed and **merged into Flutter's packages repository** (material_ui).
+
+* 🐛 Issue: [flutter/flutter#194716](https://github.com/flutter/flutter/issues/194716)
+* 🔧 Pull request: [flutter/packages#13322](https://github.com/flutter/packages/pull/13322)
+* ✅ Included a regression test so the behavior stays protected
+* 👥 Went through maintainer review before merging
+
+**Tech**: Dart, Flutter, `flutter_test`, Git/GitHub
 
 ---
 
@@ -134,10 +91,10 @@ My second independently published app, released through my own Google Play devel
 * 👥 Manage member admissions, profiles, memberships, renewals, and status
 * ✅ Record attendance check-ins and visit history
 * 💳 Track payments and create invoices
-* 📋 Create reusable membership plans
+* 📋 Create reusable membership plans and manage subscriptions
 * 💾 Store records locally with Drift and SQLite, with backup and restore support
 
-**Tech**: Flutter, Dart, BLoC, Drift, SQLite, Google Play Billing
+**Tech**: Flutter, Dart, BLoC, Drift, SQLite, Freezed, Injectable, go_router, Google Play Billing
 
 ---
 
@@ -198,12 +155,12 @@ Camera and manual-input math solver that generates AI-powered, step-by-step solu
 Computer science exam-prep app with MCQs, short-answer practice, and an AI tutor.
 
 * 📝 MCQ and short-answer practice with result history
-* 🤖 Built-in AI tutor for on-demand help
-* 🔐 Firebase Auth & Firestore for accounts and content
+* 🤖 Built-in AI tutor powered by the Mistral API
+* 🔐 Google Authentication, Firebase Auth & Firestore for accounts and content
 * 🛡️ Screenshot / screen-recording prevention to protect paid content
 * 💰 Premium subscription system with chapter locking and in-app purchases
 
-**Tech**: Flutter, GetX, Firebase Auth/Firestore, AI API integration
+**Tech**: Flutter, GetX, SQLite, Firebase Auth/Firestore, Mistral API
 
 ---
 
@@ -269,7 +226,7 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 ---
 
-## 📦 Package Development
+## 📦 Package Development/Contribution
 
 | Package                                                                                        | Description                                                                                                              | Stats                          |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
@@ -281,10 +238,21 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 ## 💼 Professional Experience
 
+**Software Engineer** · Self-Employed
+*March 2025 – Present | Islamabad, Pakistan*
+
+* Design, build and ship software end-to-end, choosing the technology stack to fit each project
+* Manage Google Play releases, including signed AAB builds, store assets, release tracks, ASO and Data Safety disclosures
+* Use crash reports, analytics and user feedback to guide product updates
+* Built **Excavation 2142** for the NASA Space Apps Challenge 2026 with React, TypeScript, Vite and Three.js
+* Contributed a fix to Flutter's packages repository, merged after maintainer review
+* Published GymDesk and other apps through my own Google Play developer account
+
 **Junior Flutter Developer** · Teramob Technologies
-*Aug 2025 – Present | Rawalpindi, Pakistan*
+*Aug 2025 – Oct 2026 | Rawalpindi, Pakistan*
 
 * Delivered **15+ production Flutter apps** and contributed feature enhancements and bug fixes to 10–15 additional apps, using GetX, Riverpod, and BLoC
+* Designed scalable databases and offline-first systems, with responsive UI, animations, and efficient state management
 * Built and customized Flutter packages by forking for local use, reused across projects to cut new-feature bootstrap time
 * Profiled and resolved performance issues: jank, memory leaks, slow cold-start
 * Participated in code reviews and architecture discussions, maintaining consistent standards across projects
@@ -299,7 +267,13 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 <br>
 
-**Customer Interaction Officer** · Clean & Green Services *(Oct 2023 – Oct 2024)*: managed client communications, quotations, and CRM records.
+**Customer Interaction Specialist** · Clean & Green Services *(Oct 2023 – Oct 2024)*: handled sales, support, quotations and complaint resolution, and managed client data in Excel.
+
+**Customer Sales Representative** · Xeebec Network *(Aug 2023 – Oct 2023)*: ran cold-call campaigns and was top performer in my first month.
+
+**English Teacher** · Ascent Academy *(Aug 2022 – Feb 2023)*: taught English grammar, writing and spoken English.
+
+**Computer & Mobile Repair Technician** · Sky Links Communication *(Oct 2020 – Jun 2021)*: diagnosed and resolved hardware and software issues for client devices.
 
 </details>
 
@@ -313,13 +287,17 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 ## 🏆 Certifications
 
+✅ Galactic Problem Solver: NASA Space Apps Challenge 2026
 ✅ UI/UX Fundamentals (2022)
+✅ Intro to Graphic Design with Photoshop
+✅ Video Editing Basics
+✅ Social Media Management
 
 ---
 
 ## 📫 Let's Connect!
 
-💼 **[LinkedIn](https://linkedin.com/in/hamza-flutterdev)**
+💼 **[LinkedIn](https://linkedin.com/in/hamzaflutterdev)**
 💻 **[GitHub](https://github.com/hamza-flutterdev)**
 📧 **[hamzabutthb553.hb@gmail.com](mailto:hamzabutthb553.hb@gmail.com)**
 
@@ -327,7 +305,7 @@ Four region-specific weather apps, each an iteration on architecture, performanc
 
 <div align="center">
 
-💡 *I'm focused on building practical software across mobile and web, growing into backend engineering, and contributing to open source.*
+💡 *I'm focused on building practical, maintainable software and expanding from mobile development into Python, backend engineering and AI-powered products.*
 
 **🚀 Let's build something amazing together!**
 
